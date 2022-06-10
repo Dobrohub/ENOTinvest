@@ -94,9 +94,8 @@
 - Инвестиционный советник.
 
 # Над проектом работают
-
 <a href="https://hh.ru/resume/7ecfe5ffff09b03f4a0039ed1f7735554a4938" target="_blank">Василий Полищук</a> |
 <a href="https://hh.ru/resume/37f4c5eeff0aeb229f0039ed1f3777786a4b4c" target="_blank">Олег Бовкуш</a> |
-Максим Евдокимов |
+<a href="https://hh.ru/resume/f5ee496aff0aeb14aa0039ed1f30457438626d" target="_blank">Максим Евдокимов</a> |
 <a href="https://spb.hh.ru/resume/9a062fbcff02f464b60039ed1f467036325872" target="_blank">Клычников Сергей</a>
 
