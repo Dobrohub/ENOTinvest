@@ -26,7 +26,7 @@ export default function DetailsOfAccordion() {
         </Grid> */}
         <Grid container xs={12} spacing={2} sx={{ mt: 0 }}>
           <Grid item xs={12} sm={12} md={12} lg={9} xl={9}>
-          {resultOneMonths ? <Typography>Изменения за месяц: {(((stockData[stockData.length - 1]?.price - resultOneMonths) / resultOneMonths) * 100 )?.toFixed(2)} %</Typography> : <Box sx={{ width: '16%' }}><LinearProgress /></Box>}
+          {/* {resultOneMonths ? <Typography>Изменения за месяц: {(((stockData[stockData.length - 1]?.price - resultOneMonths) / resultOneMonths) * 100 )?.toFixed(2)} %</Typography> : <Box sx={{ width: '16%' }}><LinearProgress /></Box>} */}
          {resultSixMonths ? <Typography>Изменения за полгода: {(((stockData[stockData.length - 1]?.price - resultSixMonths) / resultSixMonths) * 100 )?.toFixed(2)} %</Typography> : <Box sx={{ width: '16%' }}><LinearProgress /></Box>}
          {stockData.length > 0 ? <Typography>Изменения за год: {(((stockData[stockData.length - 1]?.price - stockData[0]?.price) / stockData[0]?.price) * 100 )?.toFixed(2)} %</Typography> : <Box sx={{ width: '16%' }}><LinearProgress /></Box>}
             {stockData.length > 0 ? <Diagram /> : <Box sx={{ width: '16%' }}><LinearProgress /></Box>}
