@@ -9,7 +9,7 @@
 
 # Новости
 
-<img src="https://github.com/Dobrohub/test/blob/main/news.gif"/>
+<img src="https://github.com/Dobrohub/ENOTinvest/blob/main/server/ProjectDescriptionFiles/news.gif"/>
 
 Блок поделен на 3 вкладки: все новости, только текстовые, только YouTube.
 
@@ -23,7 +23,7 @@
 Кликнув на любую из новостей можно перейти на сайт, где эта новость размещена. Видео можно просматривать прямо не выходя с сайта. 
 
 # Акции
-<img src="https://github.com/Dobrohub/test/blob/main/stockpage.gif"/>
+<img src="https://github.com/Dobrohub/ENOTinvest/blob/main/server/ProjectDescriptionFiles/stockpage.gif"/>
 
 Работа с акциями Московской биржи (котировки, исторические данные, тикеры, имена компаний):
 - MOEX API
@@ -42,7 +42,7 @@
 Для ежесекундного обновления данных по всем компаниям требуется платная подписка на API, поэтому в целях демонстрационных возможностей было выбрано 20. По клику на компанию раскрывается дополнительное поле с историческими данными, их динамикой в % соотношении, описанием из Википедии и подборкой последних новостей связанных только с этой компаний. Для зарегистрированного пользователя доступна возможность добавлять акции в избранное. 
 
 # Логин / регистрация
-<img src="https://github.com/Dobrohub/test/blob/main/loginreg.gif"/>
+<img src="https://github.com/Dobrohub/ENOTinvest/blob/main/server/ProjectDescriptionFiles/loginreg.gif"/>
 
 Хранение данных:
 - PostgresSQL
@@ -56,10 +56,10 @@
 
 При регистрации проходит проверка по email на наличии уже такого в базе. Также есть проверка на сложность пароля и правильность его ввода при логине на сайт. После регистрации необходимо подтвердить аккаунт через переход по пришедшей ссылки на почту.
 
-<img src="https://github.com/Dobrohub/test/blob/main/validation.jpg"/>
+<img src="https://github.com/Dobrohub/ENOTinvest/blob/main/server/ProjectDescriptionFiles/validation.jpg"/>
 
 # Портфель
-<img src="https://github.com/Dobrohub/test/blob/main/profile.gif"/>
+<img src="https://github.com/Dobrohub/ENOTinvest/blob/main/server/ProjectDescriptionFiles/profile.gif"/>
 
 Подключение личного кабинета:
 - tinkoff-invest-api
@@ -94,9 +94,8 @@
 - Инвестиционный советник.
 
 # Над проектом работают
-
 <a href="https://hh.ru/resume/7ecfe5ffff09b03f4a0039ed1f7735554a4938" target="_blank">Василий Полищук</a> |
 <a href="https://hh.ru/resume/37f4c5eeff0aeb229f0039ed1f3777786a4b4c" target="_blank">Олег Бовкуш</a> |
-Максим Евдокимов |
+<a href="https://hh.ru/resume/f5ee496aff0aeb14aa0039ed1f30457438626d" target="_blank">Максим Евдокимов</a> |
 <a href="https://spb.hh.ru/resume/9a062fbcff02f464b60039ed1f467036325872" target="_blank">Клычников Сергей</a>
 
